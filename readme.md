@@ -1,11 +1,27 @@
-# NumPy
+# DSR Teaching Material
+
+## Pandas
+- Data structures in Pandas
+  - Series
+  - DataFrame
+- Selecting data
+  - Conditional selects
+- Aggregation
+  - GroupBy
+- Dealing with datetime data in Pandas
+- Data cleaning 
+  - Handling null/missing values
+- Data manipulation
+  - Applying helper functions
+
+## NumPy
 
 A one day course introducing NumPy and linear algebra.  The course is split into three notebooks:
 1. [vector.ipynb](https://github.com/ADGEfficiency/teaching-monolith/blob/master/numpy/1.vector.ipynb) - single dimension arrays
 2. [matrix.ipynb](https://github.com/ADGEfficiency/teaching-monolith/blob/master/numpy/2.matrix.ipynb) - two dimensional arrays
 3. [tensor.ipynb](https://github.com/ADGEfficiency/teaching-monolith/blob/master/numpy/3.tensor.ipynb) - n dimensional arrays
 
-## Resources & further reading
+### Resources & further reading
 
 Chapter 2 of [Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
